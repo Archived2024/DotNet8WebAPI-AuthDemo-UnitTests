@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\xUnitTestProject\\xUnitTestProject.csproj": {}
+    "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\xUnitTestProject\\xUnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\DotNet8WebAPI\\DotNet8WebAPI.csproj": {
+    "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\DotNet8WebAPI\\DotNet8WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\DotNet8WebAPI\\DotNet8WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\DotNet8WebAPI\\DotNet8WebAPI.csproj",
         "projectName": "DotNet8WebAPI",
-        "projectPath": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\DotNet8WebAPI\\DotNet8WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Ludvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\DotNet8WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\DotNet8WebAPI\\DotNet8WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Ludvig\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\DotNet8WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ludvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ludvig\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,25 +93,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\xUnitTestProject\\xUnitTestProject.csproj": {
+    "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\xUnitTestProject\\xUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\xUnitTestProject\\xUnitTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\xUnitTestProject\\xUnitTestProject.csproj",
         "projectName": "xUnitTestProject",
-        "projectPath": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\xUnitTestProject\\xUnitTestProject.csproj",
-        "packagesPath": "C:\\Users\\Ludvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\xUnitTestProject\\obj\\",
+        "projectPath": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\xUnitTestProject\\xUnitTestProject.csproj",
+        "packagesPath": "C:\\Users\\Ludvig\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\xUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ludvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ludvig\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -129,8 +121,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\DotNet8WebAPI\\DotNet8WebAPI.csproj": {
-                "projectPath": "C:\\Users\\Ludvi\\Desktop\\TestIgen\\DotNet8WebAPI-AuthDemo-UnitTests-master\\DotNet8WebAPI\\DotNet8WebAPI.csproj"
+              "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\DotNet8WebAPI\\DotNet8WebAPI.csproj": {
+                "projectPath": "C:\\Users\\Ludvig\\Desktop\\Fungerande 2\\DotNet8WebAPI\\DotNet8WebAPI.csproj"
               }
             }
           }
@@ -187,7 +179,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
